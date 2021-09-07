@@ -11,6 +11,8 @@ Wobb is a budding startup based in Gurugram and founded by a group of IITD alumn
 
 The more detailed description of the project is given below
 
+
+
 Recent years have witnessed the increasing demands of online shopping for fashion items. Despite the convenience online fashion shopping provides, consumers are concerned about how a particular fashion item in a product image would look on them when buying apparel online. Thus, allowing consumers to virtually try on clothes will not only enhance their shopping experience, transforming the way people shop for clothes, but also save cost for retailers. Our goal is to synthesize a photo-realistic new image by overlaying a product image seamlessly onto the corresponding region of a clothed person.
 The synthetic image is expected to be perceptually convincing, meeting the following criteria:
 (1) body parts and pose of the person are the same as in the original image
